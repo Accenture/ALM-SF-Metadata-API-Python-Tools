@@ -6,7 +6,7 @@ These scripts can be used standalone or invoked from CI/CD pipelines, such as th
 
 ## Call Git Server
 
-Handle Git operations between different Git distributions.
+Handle Git operations between several Git distributions.
 
 Currently supporting:
 - Gitlab
@@ -32,12 +32,6 @@ Detailed explanation can be found at [Merge Metadata README](/mergeMetadata/READ
 Builds a package with differences between source and target branches or commits.
 
 Detailed explanation can be found at [Merger README](/merger/README.md).
-
-## Nomenclature
-
-Validates if metadata files follow custom nomenclature guidelines.
-
-Detailed explanation can be found at [Nomenclature README](/nomenclature/README.md)
 
 ## PMD
 
